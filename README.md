@@ -64,5 +64,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ### 📬 Contact
 
 **Affan Umair**  
-Email: [your-email@example.com]  
-GitHub: [Affan5370](https://github.com/Affan5370)
+Final Year Student, VIT Chennai  
+📫 [LinkedIn](https://www.linkedin.com/in/affan-umair/)  
+📧 affan.umair5370@gmail.com  
